@@ -11,4 +11,4 @@ spotipy~=2.24.0
 pytube~=15.0.0
 gtts~=2.5.4
 whois~=0.9.27
-Pillow~=11.0.0
+Pillow==9.5.0
